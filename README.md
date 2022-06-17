@@ -20,8 +20,3 @@ Student Feature:
 - Can view a teacher's profile with the available schedule by week. They can view the booked and available slots.
 - Can make an appointment request by providing teachers, departments etc. 
 - Can see his/her appointment history and upcoming schedule for the day/week.
-
-Video Demonstration: 
-
-https://user-images.githubusercontent.com/47820611/172203478-81edad26-50da-47f4-838c-dbf96d3dfb7f.mp4
-
